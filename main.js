@@ -1,4 +1,4 @@
-const list = document.querySelectorAll("gay");
+const list = document.querySelectorAll(".gay");
 
 for (let i = 0; i < list.length; i++) {
     const item = list[i];
